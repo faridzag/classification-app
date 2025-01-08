@@ -1,1 +1,5 @@
 streamlit
+h5py
+numpy
+scikit-learn
+pandas
